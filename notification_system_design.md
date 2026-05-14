@@ -213,3 +213,6 @@ Next steps I can implement on request:
 - Scaffold the frontend `notification_app_fe` with a Material UI project and basic pages.
 - Implement the Logging Middleware library and integrate it with the backend.
 - Containerize services and add a docker-compose for Redis/Postgres and the app.
+
+
+# output 
