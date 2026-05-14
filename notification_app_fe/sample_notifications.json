@@ -1,0 +1,17 @@
+[
+  {"id": 1, "type": "Event", "message": "Campus fest this weekend", "createdAt": "2026-05-10T08:00:00Z"},
+  {"id": 2, "type": "Placement", "message": "X Corp drive on May 20", "createdAt": "2026-05-14T09:30:00Z"},
+  {"id": 3, "type": "Result", "message": "Semester results declared", "createdAt": "2026-05-13T07:00:00Z"},
+  {"id": 4, "type": "Placement", "message": "Y Inc internship positions", "createdAt": "2026-05-12T12:00:00Z"},
+  {"id": 5, "type": "Event", "message": "Guest lecture on AI", "createdAt": "2026-05-14T11:00:00Z"},
+  {"id": 6, "type": "Result", "message": "Quiz 3 results", "createdAt": "2026-05-14T10:45:00Z"},
+  {"id": 7, "type": "Placement", "message": "Z Ltd hiring for interns", "createdAt": "2026-05-11T09:00:00Z"},
+  {"id": 8, "type": "Event", "message": "Sports day schedule", "createdAt": "2026-05-09T06:00:00Z"},
+  {"id": 9, "type": "Result", "message": "Assignment grading released", "createdAt": "2026-05-14T08:30:00Z"},
+  {"id": 10, "type": "Placement", "message": "On-campus interview rounds", "createdAt": "2026-05-14T07:20:00Z"},
+  {"id": 11, "type": "Event", "message": "Hackathon registration open", "createdAt": "2026-05-13T18:00:00Z"},
+  {"id": 12, "type": "Result", "message": "Midterm corrections published", "createdAt": "2026-05-12T15:00:00Z"},
+  {"id": 13, "type": "Placement", "message": "Company A aptitude test", "createdAt": "2026-05-14T06:30:00Z"},
+  {"id": 14, "type": "Result", "message": "Course project marks updated", "createdAt": "2026-05-11T14:00:00Z"},
+  {"id": 15, "type": "Event", "message": "Club meet tonight", "createdAt": "2026-05-14T12:00:00Z"}
+]
